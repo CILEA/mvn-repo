@@ -3,11 +3,12 @@
   <groupId>it.cilea</groupId>
   <artifactId>commons-cilea-genericdao</artifactId>
   <versioning>
-    <release>1.1</release>
+    <release>1.2</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
+      <version>1.2</version>
     </versions>
-    <lastUpdated>20130723161757</lastUpdated>
+    <lastUpdated>20130731142339</lastUpdated>
   </versioning>
 </metadata>
