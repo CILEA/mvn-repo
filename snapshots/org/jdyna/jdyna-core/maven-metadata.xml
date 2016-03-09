@@ -8,7 +8,8 @@
       <version>5.3-SNAPSHOT</version>
       <version>5.4-SNAPSHOT</version>
       <version>5.5-SNAPSHOT</version>
+      <version>5.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160115155924</lastUpdated>
+    <lastUpdated>20160309170642</lastUpdated>
   </versioning>
 </metadata>
